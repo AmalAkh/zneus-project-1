@@ -5,4 +5,4 @@
 ### Week 6
  - EDA
  - Normalization
- - Basic Model
+ - Basic Model for binary classification

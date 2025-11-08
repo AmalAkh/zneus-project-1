@@ -1,0 +1,1 @@
+{"_wandb":{"runtime":0},"Val Acc":0.7407407164573669,"Val Negative Precision":0.574999988079071,"Val Loss":0.6298048694928488,"Train Loss":0.6395714684672977,"_step":15,"Train Positive Precision":0,"_timestamp":1.762618285139301e+09,"Train Acc":0.7954545617103577,"epoch":15,"LR":0.001,"Train Negative Precision":0.6344647407531738,"_runtime":0,"Val Positive Precision":1}

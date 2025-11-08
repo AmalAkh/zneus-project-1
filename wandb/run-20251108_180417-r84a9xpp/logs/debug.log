@@ -1,0 +1,31 @@
+2025-11-08 18:04:17,007 INFO    MainThread:79102 [wandb_init.py:setup_run_log_directory():706] Logging user logs to /Users/amalahmadinurov/Desktop/Subjects_ZS_2025/ZNEUS/zneus-project-1/wandb/run-20251108_180417-r84a9xpp/logs/debug.log
+2025-11-08 18:04:17,007 INFO    MainThread:79102 [wandb_init.py:setup_run_log_directory():707] Logging internal logs to /Users/amalahmadinurov/Desktop/Subjects_ZS_2025/ZNEUS/zneus-project-1/wandb/run-20251108_180417-r84a9xpp/logs/debug-internal.log
+2025-11-08 18:04:17,007 INFO    MainThread:79102 [wandb_init.py:init():833] calling init triggers
+2025-11-08 18:04:17,007 INFO    MainThread:79102 [wandb_init.py:init():838] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-11-08 18:04:18,228 INFO    MainThread:79102 [wandb_init.py:init():881] starting backend
+2025-11-08 18:04:18,228 INFO    MainThread:79102 [wandb_init.py:init():884] sending inform_init request
+2025-11-08 18:04:18,228 INFO    MainThread:79102 [wandb_init.py:init():892] backend started and connected
+2025-11-08 18:04:18,230 INFO    MainThread:79102 [wandb_run.py:_label_probe_notebook():1328] probe notebook
+2025-11-08 18:04:18,230 INFO    MainThread:79102 [wandb_init.py:init():962] updated telemetry
+2025-11-08 18:04:18,269 INFO    MainThread:79102 [wandb_init.py:init():986] communicating run to backend with 90.0 second timeout
+2025-11-08 18:04:18,801 INFO    MainThread:79102 [wandb_init.py:init():1033] starting run threads in backend
+2025-11-08 18:04:18,842 INFO    MainThread:79102 [wandb_run.py:_console_start():2506] atexit reg
+2025-11-08 18:04:18,842 INFO    MainThread:79102 [wandb_run.py:_redirect():2354] redirect: wrap_raw
+2025-11-08 18:04:18,842 INFO    MainThread:79102 [wandb_run.py:_redirect():2423] Wrapping output streams.
+2025-11-08 18:04:18,842 INFO    MainThread:79102 [wandb_run.py:_redirect():2446] Redirects installed.
+2025-11-08 18:04:18,843 INFO    MainThread:79102 [wandb_init.py:init():1073] run started, returning control to user process
+2025-11-08 18:04:18,843 INFO    MainThread:79102 [wandb_config.py:__setitem__():154] [no run ID] config set batch_size = 32 - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x134bb1090>>
+2025-11-08 18:04:18,843 INFO    MainThread:79102 [wandb_run.py:_config_callback():1390] config_cb batch_size 32 None
+2025-11-08 18:04:18,843 INFO    MainThread:79102 [wandb_config.py:__setitem__():154] [no run ID] config set learning_rate = 0.001 - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x134bb1090>>
+2025-11-08 18:04:18,843 INFO    MainThread:79102 [wandb_run.py:_config_callback():1390] config_cb learning_rate 0.001 None
+2025-11-08 18:04:18,843 INFO    MainThread:79102 [wandb_config.py:__setitem__():154] [no run ID] config set max_epochs = 50 - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x134bb1090>>
+2025-11-08 18:04:18,843 INFO    MainThread:79102 [wandb_run.py:_config_callback():1390] config_cb max_epochs 50 None
+2025-11-08 18:04:18,844 INFO    MainThread:79102 [wandb_config.py:__setitem__():154] [no run ID] config set desc = MLP: (512, ReLU) (256, ReLU) (1) - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x134bb1090>>
+2025-11-08 18:04:18,844 INFO    MainThread:79102 [wandb_run.py:_config_callback():1390] config_cb desc MLP: (512, ReLU) (256, ReLU) (1) None
+2025-11-08 18:04:18,844 INFO    MainThread:79102 [wandb_config.py:__setitem__():154] [no run ID] config set loss_function = BinaryCrossentropy with logits - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x134bb1090>>
+2025-11-08 18:04:18,844 INFO    MainThread:79102 [wandb_run.py:_config_callback():1390] config_cb loss_function BinaryCrossentropy with logits None
+2025-11-08 18:04:18,844 INFO    MainThread:79102 [wandb_config.py:__setitem__():154] [no run ID] config set reduce_lr_patience = 10 - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x134bb1090>>
+2025-11-08 18:04:18,844 INFO    MainThread:79102 [wandb_run.py:_config_callback():1390] config_cb reduce_lr_patience 10 None
+2025-11-08 18:04:18,844 INFO    MainThread:79102 [wandb_config.py:__setitem__():154] [no run ID] config set early_stopping_patience = 10 - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x134bb1090>>
+2025-11-08 18:04:18,844 INFO    MainThread:79102 [wandb_run.py:_config_callback():1390] config_cb early_stopping_patience 10 None

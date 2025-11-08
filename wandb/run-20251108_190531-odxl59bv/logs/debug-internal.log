@@ -1,0 +1,12 @@
+{"time":"2025-11-08T19:05:31.654726+01:00","level":"INFO","msg":"stream: starting","core version":"0.22.3"}
+{"time":"2025-11-08T19:05:31.940828+01:00","level":"INFO","msg":"stream: created new stream","id":"odxl59bv"}
+{"time":"2025-11-08T19:05:31.940901+01:00","level":"INFO","msg":"handler: started","stream_id":"odxl59bv"}
+{"time":"2025-11-08T19:05:31.94109+01:00","level":"INFO","msg":"stream: started","id":"odxl59bv"}
+{"time":"2025-11-08T19:05:31.941105+01:00","level":"INFO","msg":"writer: started","stream_id":"odxl59bv"}
+{"time":"2025-11-08T19:05:31.941128+01:00","level":"INFO","msg":"sender: started","stream_id":"odxl59bv"}
+{"time":"2025-11-08T19:05:42.523324+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-11-08T19:05:42.760268+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-11-08T19:05:42.771279+01:00","level":"INFO","msg":"stream: closing","id":"odxl59bv"}
+{"time":"2025-11-08T19:05:42.771313+01:00","level":"INFO","msg":"handler: closed","stream_id":"odxl59bv"}
+{"time":"2025-11-08T19:05:42.77151+01:00","level":"INFO","msg":"sender: closed","stream_id":"odxl59bv"}
+{"time":"2025-11-08T19:05:42.771525+01:00","level":"INFO","msg":"stream: closed","id":"odxl59bv"}

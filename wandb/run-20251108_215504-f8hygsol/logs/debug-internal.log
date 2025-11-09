@@ -1,0 +1,12 @@
+{"time":"2025-11-08T21:55:04.404383+01:00","level":"INFO","msg":"stream: starting","core version":"0.22.3"}
+{"time":"2025-11-08T21:55:04.696603+01:00","level":"INFO","msg":"stream: created new stream","id":"f8hygsol"}
+{"time":"2025-11-08T21:55:04.696677+01:00","level":"INFO","msg":"handler: started","stream_id":"f8hygsol"}
+{"time":"2025-11-08T21:55:04.696835+01:00","level":"INFO","msg":"stream: started","id":"f8hygsol"}
+{"time":"2025-11-08T21:55:04.696859+01:00","level":"INFO","msg":"writer: started","stream_id":"f8hygsol"}
+{"time":"2025-11-08T21:55:04.697079+01:00","level":"INFO","msg":"sender: started","stream_id":"f8hygsol"}
+{"time":"2025-11-08T21:55:29.274347+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-11-08T21:55:29.489563+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-11-08T21:55:29.492917+01:00","level":"INFO","msg":"stream: closing","id":"f8hygsol"}
+{"time":"2025-11-08T21:55:29.492946+01:00","level":"INFO","msg":"handler: closed","stream_id":"f8hygsol"}
+{"time":"2025-11-08T21:55:29.493076+01:00","level":"INFO","msg":"sender: closed","stream_id":"f8hygsol"}
+{"time":"2025-11-08T21:55:29.493084+01:00","level":"INFO","msg":"stream: closed","id":"f8hygsol"}

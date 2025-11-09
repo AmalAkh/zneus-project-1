@@ -1,0 +1,12 @@
+{"time":"2025-11-08T21:24:53.316582+01:00","level":"INFO","msg":"stream: starting","core version":"0.22.3"}
+{"time":"2025-11-08T21:24:53.680775+01:00","level":"INFO","msg":"stream: created new stream","id":"kvp5rptt"}
+{"time":"2025-11-08T21:24:53.680848+01:00","level":"INFO","msg":"handler: started","stream_id":"kvp5rptt"}
+{"time":"2025-11-08T21:24:53.681011+01:00","level":"INFO","msg":"stream: started","id":"kvp5rptt"}
+{"time":"2025-11-08T21:24:53.681029+01:00","level":"INFO","msg":"writer: started","stream_id":"kvp5rptt"}
+{"time":"2025-11-08T21:24:53.681032+01:00","level":"INFO","msg":"sender: started","stream_id":"kvp5rptt"}
+{"time":"2025-11-08T21:25:02.503292+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-11-08T21:25:02.755501+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-11-08T21:25:02.7592+01:00","level":"INFO","msg":"stream: closing","id":"kvp5rptt"}
+{"time":"2025-11-08T21:25:02.759217+01:00","level":"INFO","msg":"handler: closed","stream_id":"kvp5rptt"}
+{"time":"2025-11-08T21:25:02.759416+01:00","level":"INFO","msg":"sender: closed","stream_id":"kvp5rptt"}
+{"time":"2025-11-08T21:25:02.759425+01:00","level":"INFO","msg":"stream: closed","id":"kvp5rptt"}

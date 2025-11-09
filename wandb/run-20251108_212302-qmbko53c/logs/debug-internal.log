@@ -1,0 +1,8 @@
+{"time":"2025-11-08T21:23:02.802308+01:00","level":"INFO","msg":"stream: starting","core version":"0.22.3"}
+{"time":"2025-11-08T21:23:03.090898+01:00","level":"INFO","msg":"stream: created new stream","id":"qmbko53c"}
+{"time":"2025-11-08T21:23:03.090948+01:00","level":"INFO","msg":"handler: started","stream_id":"qmbko53c"}
+{"time":"2025-11-08T21:23:03.09111+01:00","level":"INFO","msg":"stream: started","id":"qmbko53c"}
+{"time":"2025-11-08T21:23:03.091121+01:00","level":"INFO","msg":"writer: started","stream_id":"qmbko53c"}
+{"time":"2025-11-08T21:23:03.091124+01:00","level":"INFO","msg":"sender: started","stream_id":"qmbko53c"}
+{"time":"2025-11-08T21:23:34.169615+01:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/amal-akhmadinurov-stu/zneus-project-1-multiclass/qmbko53c/file_stream"}
+{"time":"2025-11-08T21:23:34.170194+01:00","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/amal-akhmadinurov-stu/zneus-project-1-multiclass/qmbko53c/file_stream: {\"error\":\"run zneus-project-1-multiclass/qmbko53c not found while streaming file\"}"}

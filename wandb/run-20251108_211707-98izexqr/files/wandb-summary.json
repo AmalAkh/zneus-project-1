@@ -1,0 +1,1 @@
+{"LR":0.001,"Train Acc":0.7457751035690308,"Val Precision":0.8083480596542358,"_wandb":{"runtime":0},"Val Loss":1.2611083090305328,"_runtime":0,"Val Acc":0.7065639495849609,"Train Loss":1.2022629578908284,"Train Precision":0.78531414270401,"epoch":25,"_step":25,"_timestamp":1.762633037129504e+09}

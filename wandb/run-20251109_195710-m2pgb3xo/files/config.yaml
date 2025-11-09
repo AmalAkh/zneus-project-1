@@ -1,0 +1,79 @@
+_wandb:
+    value:
+        cli_version: 0.22.3
+        e:
+            q8o2a3yhrrts3v7rea2erguajdnvwz4w:
+                apple:
+                    ecpuCores: 6
+                    gpuCores: 14
+                    memoryGb: 18
+                    name: Apple M3 Pro
+                    pcpuCores: 5
+                    ramTotalBytes: "19327352832"
+                args:
+                    - -f
+                    - /private/var/folders/sj/spfm7fgn16lbrdhsd8p9ygzh0000gn/T/tmpvvjy1ml2.json
+                    - '--HistoryManager.hist_file=:memory:'
+                cpu_count: 11
+                cpu_count_logical: 11
+                disk:
+                    /:
+                        total: "494384795648"
+                        used: "451356344320"
+                email: amal.akhmadinurov@gmail.com
+                executable: /Users/amalahmadinurov/Desktop/Subjects_ZS_2025/ZNEUS/zneus-project-1/.venv/bin/python
+                git:
+                    commit: f415aa71c8dd4604ddc5ea6125ed1448361e9ff3
+                    remote: https://github.com/AmalAkh/zneus-project-1
+                host: Amals-MBP
+                memory:
+                    total: "19327352832"
+                os: macOS-26.0.1-arm64-arm-64bit-Mach-O
+                program: <python with no main file>
+                python: CPython 3.13.7
+                root: /Users/amalahmadinurov/Desktop/Subjects_ZS_2025/ZNEUS/zneus-project-1
+                startedAt: "2025-11-09T18:57:10.048186Z"
+                writerId: q8o2a3yhrrts3v7rea2erguajdnvwz4w
+        m: []
+        python_version: 3.13.7
+        t:
+            "1":
+                - 1
+            "2":
+                - 1
+                - 5
+                - 53
+            "3":
+                - 2
+                - 13
+                - 19
+            "4": 3.13.7
+            "5": 0.22.3
+            "8":
+                - 13
+            "12": 0.22.3
+            "13": darwin-arm64
+batch_size:
+    value: 32
+desc:
+    value: 'MLP: (1024, BatchNorm,ReLU,Dropout) (512,BatchNorm, ReLU,Dropout) (256,BatchNorm, ReLU, Dropout) (1)'
+dropout_coef:
+    value: 0.35
+early_stopping_patience:
+    value: 20
+learning_rate:
+    value: 0.001
+loss_function:
+    value: BinaryCrossentropy with logits
+loss_weights:
+    value:
+        - 4
+        - 4
+        - 2
+        - 3
+        - 5
+        - 5
+max_epochs:
+    value: 100
+reduce_lr_patience:
+    value: 10
